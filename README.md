@@ -36,8 +36,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=personalnerd&theme=blue-green)
 
-&nbsp;
-
 </div>
 
 &nbsp;
@@ -136,3 +134,31 @@
 > IBM Design Thinking (LIT Saint Paul); Jornada do UX Designer; Performance Web com JavaScript; Fundamentos de Arquitetura de Sistemas; Introdução ao DDD e Arquitetura de Software; TDD com JavaScript; Arquitetura Hexagonal; Projetos Ágeis com Scrum; Programação para internet com JavaScript; JavaScript ES6 Essencial; Desenvolvimento avançado com JavaScript ES6; Git e Controle de versões; Lógica de Programação; Figma; Arquitetura de Sistemas; PHP e MySQL; Fundamentos de computação em nuvem.
 
 > Preparação para Certiﬁcação CompTIA A+; Interpretação e Implementação da Norma ISO 14001:2004; Atualização Norma ISO 9001:2008; Auditoria ISO 14001:2004; Qualiﬁcação Auditor Interno ISO 9001:2000.
+
+
+&nbsp;
+
+## 🎸 Projetos Pessoais
+
+> Canal pessoal de música no YouTube 🎸🎹🥁
+>
+> https://www.youtube.com/c/TarcisioCavalcante/
+>
+> ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+> Jogador amador de Tênis de Mesa (em andamento) 🏓
+
+> Colecionador de livros não lidos (a pleno vapor) 😒
+
+> Ensinar Front-End: Desenvolvimento web responsivo, HTML/CSS/SASS/Bootstrap (em planejamento) ✍
+
+
+&nbsp;
+
+## 👍 Redes Sociais e Informações Adicionais
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tarcisio)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cisoxp)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tcavalcante/)
