@@ -48,3 +48,19 @@ Instituto Brasil de Ensino - IBRA/FAMEV
 Graduação Tecnológica | 02/2015 a 06/2018
 
 Universidade Paulista - UNIP Interativa
+
+
+&nbsp;
+
+## 🎸 Projetos Pessoais
+
+> Canal pessoal de música no YouTube 🎸🎹🥁
+>
+> https://www.youtube.com/c/TarcisioCavalcante/
+>
+> ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+> Jogador amador de Tênis de Mesa (em andamento) 🏓
+
+> Colecionador de livros não lidos 😒
+
