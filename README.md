@@ -9,10 +9,12 @@
 ## 🧔 Tarcisio Cavalcante Uchoa
 
 > Desenvolvedor Web Front-End
-> 
+>
 > Web Designer
-> 
+>
 > Menino do computador
+>
+> UX lover
 
 &nbsp;
 
@@ -42,7 +44,7 @@
 
 ## ✉️ Contato
 
-> Brasileiro • 40 anos • Brasília/DF
+> Brasileiro • 41 anos • Brasília/DF
 >
 > 📱 +55 61 99909-5112
 >
@@ -73,8 +75,11 @@
 
 ## 👔 Experiência Profissional
 
+### BRF SA | Desenvolvedor Sr
+> Curitiba (remoto) • desde 05/2022
+
 ### Empresômetro | Desenvolvedor web front-end
-> Curitiba (remoto) • Desde 08/2020
+> Curitiba (remoto) • 08/2020 a 04/2022
 
 ### Freelancer e consultor em TI, design, marketing e e-commerce
 > Curitiba, Fortaleza, Brasília • 06/2017 a 08/2020
