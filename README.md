@@ -6,14 +6,16 @@
 
 <img align="right" src="tarcisio.png" />
 
-## 🧔 Tarcisio Cavalcante Uchoa
+## 🧔‍♂️ Tarcisio Cavalcante Uchoa
 
-> Desenvolvedor Web Front-End
+> Desenvolvedor Sr
+> 
+> Automation Quality Assurance
 >
+> Web Dev Front-End
+> 
 > Web Designer
->
-> Menino do computador
->
+> 
 > UX lover
 
 &nbsp;
@@ -35,6 +37,8 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 &nbsp;
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=personalnerd&theme=blue-green)
 
@@ -44,9 +48,7 @@
 
 ## ✉️ Contato
 
-> Brasileiro • 41 anos • Brasília/DF
->
-> 📱 +55 61 99909-5112
+> Brasileiro • 42 anos • Brasília/DF
 >
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cisoxp@gmail.com)
 &nbsp;
@@ -59,8 +61,12 @@
 ## 🎓 Formação Acadêmica
 
 
+### Pós-Graduação | MBA Engenharia de Software
+> <p>Desde 03/2022 | cursando<br />
+> FAMEESP - Faculdade Metropolitana do Estado de São Paulo</p>
+
 ### Pós-Graduação | WebDev - Desenvolvimento de aplicações para internet e dispositivos móveis
-> <p>Desde 05/2021 | cursando<br />
+> <p>05/2021 a 12/2022<br />
 > UniALFA - Faculdade ALFA Umuarama</p>
 
 ### Pós-Graduação | Gestão estratégica de tecnologia da informação
@@ -150,12 +156,10 @@
 > https://www.youtube.com/c/TarcisioCavalcante/
 >
 > ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-> Jogador amador de Tênis de Mesa (em pausa) 🏓
-
+>
 > Colecionador de livros não lidos (a pleno vapor) 😒
-
-> Ensinar Front-End: Desenvolvimento web responsivo, HTML/CSS/SASS/Bootstrap (em planejamento) ✍
+>
+> Baterista da banda Knuckleheads - Brasília/DF: https://instagram.com/bandaknh.oficial
 
 
 &nbsp;
