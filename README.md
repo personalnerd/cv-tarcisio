@@ -6,7 +6,7 @@
 
 <img align="right" src="tarcisio.png" />
 
-## 🧔‍♂️ Tarcisio Cavalcante Uchoa
+## 🧔🏻 Tarcisio Cavalcante Uchoa
 
 > Desenvolvedor Sr
 > 
@@ -48,7 +48,7 @@
 
 ## ✉️ Contato
 
-> Brasileiro • 42 anos • Brasília/DF
+> Brasileiro • 43 anos • Curitiba/PR • Brasília/DF
 >
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cisoxp@gmail.com)
 &nbsp;
@@ -58,11 +58,28 @@
 
 &nbsp;
 
+## 🧔🏻 Sobre
+
+Profissional com ampla experiência (vinte e tantos anos e contando) em TI, design gráfico e web (UX/UI), desenvolvimento web front-end e testes de software (manual e automatizado). Apaixonado por tecnologia, autodidata, criativo e sempre disposto a aprender/ensinar e assumir novos desafios.
+
+Focado nos últimos anos em:
+- Desenvolvimento front-end (HTML, CSS, SASS, JavaScript, Typescript, jQuery, Bootstrap, Tailwind).
+- Criação e gestão de produtos e design de experiência do usuário.
+- Qualidade de software (quality assurance) com testes manuais e automatizados E2E (Playwright e Cypress).
+- Liderança de times de desenvolvimento, atuando como tech lead e delivery manager.
+- E dedicando bastante tempo de estudo em frameworks reativos (React, Vue).
+
+&nbsp;
+
 ## 🎓 Formação Acadêmica
 
 
+### Pós-Graduação | Transformação Digital e Liderança
+> <p>09/2024 a 09/2025<br />
+> Escola Conquer</p>
+
 ### Pós-Graduação | MBA Engenharia de Software
-> <p>Desde 03/2022 | cursando<br />
+> <p>03/2023 a 11/2023<br />
 > FAMEESP - Faculdade Metropolitana do Estado de São Paulo</p>
 
 ### Pós-Graduação | WebDev - Desenvolvimento de aplicações para internet e dispositivos móveis
@@ -157,9 +174,7 @@
 >
 > ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 >
-> Colecionador de livros não lidos (a pleno vapor) 😒
->
-> Baterista da banda Knuckleheads - Brasília/DF: https://instagram.com/bandaknh.oficial
+> Colecionador de livros não lidos 😒
 
 
 &nbsp;
