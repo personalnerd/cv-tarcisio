@@ -97,47 +97,65 @@ Focado nos últimos anos em:
 ## 👔 Experiência Profissional
 
 ### BRF SA | Desenvolvedor Sr
-> Curitiba (remoto) • desde 05/2022
+> Curitiba • 05/2022 a 01/2025<br />
+> Inicialmente Analista de Testes QA com foco em testes automatizados E2E. Evoluindo para tech lead e gestão do time de desenvolvimento de produtos internos. Atuando também como Service Delivery Manager (método Kanban), Product Designer, Analista QA e automação de testes.<br />
+> HTML, CSS, SASS, React, design e prototipação com Figma, UX/UI, MSSQL, Azure DevOps, Portal Azure, automação de testes com Playwright, integração com APIs (Postman, Swagger), liderança, comunicação entre equipes e stakeholders, identificação de problemas, definição de prioridades e metas.
 
 ### Empresômetro | Desenvolvedor web front-end
-> Curitiba (remoto) • 08/2020 a 04/2022
+> Curitiba (remoto) • 08/2020 a 04/2022<br />
+> Criação e manutenção de telas (front-end) da plataforma Empresômetro Digital e portais internos. Participação em processo de criação de novas soluções e funcionalidades. Prototipação de telas. Desenvolvimento e manutenção do blog em Wordpress. Utilização de padrões e práticas de performance e SEO.<br />
+> HTML, CSS, SASS, JavaScript, jQuery, Bootstrap, prototipação com Figma, Photoshop, CorelDRAW, integração com APIs, versionamento com GIT, customização de layout em WordPress, desenvolvimento de UX.
 
 ### Freelancer e consultor em TI, design, marketing e e-commerce
-> Curitiba, Fortaleza, Brasília • 06/2017 a 08/2020
+> Curitiba, Fortaleza, Brasília • 06/2017 a 08/2020<br />
+> Hospedagem e suporte a hospedagem de websites. Desenvolvimento de websites, blogs e lojas virtuais em WordPress, personalização de layouts para WordPress, administração de sistema de hospedagem de sites (WHM/cPanel).
 
 ### Mercado do Alarme | Analista de marketing
-> Curitiba • 02/2015 a 06/2017
+> Curitiba • 02/2015 a 06/2017<br />
+> Gerenciamento do website institucional e catálogo virtual de produtos. Otimização para busca orgânica e patrocinada (AdWords). Social media. Gerenciamento de e-mail marketing. Design e soluções de marketing local, off-line e on-line. Suporte em TI.
 
 ### Móveis Capão Raso | Web Designer e Social Media
-> Curitiba • 01/2013 a 02/2015
+> Curitiba • 01/2013 a 02/2015<br />
+> Desenvolvimento do website institucional. Gerenciamento da loja virtual. Acompanhamento, criação e análise dos canais de marketing digital e mídias sociais. Cuidou da criação e lançamento da loja virtual da Móveis Capão Raso.
 
 ### Grupo BCI | Web Designer e Social Media
-> Curitiba • 01/2012 a 01/2013
+> Curitiba • 01/2012 a 01/2013<br />
+> Desenvolvimento visual dos sites, portais e sistemas do Grupo. Planejamento, monitoramento, relacionamento e produção de conteúdo de marketing e mídias sociais das empresas do grupo.
 
 ### Oscip Lê7VóX | Criação
-> São Paulo • 03/2011 a 06/2011
+> São Paulo • 03/2011 a 06/2011<br />
+> Desenvolvimento de identidade visual, projetos gráficos, multimídia e comunicação digital dos projetos sociais e dos clientes da Creacao Studios - polo de criação da ONG.
 
 ### Centro Internacional de Análise Relacional | Comunicação Digital
-> Curitiba • 01/2011 a 03/2011
+> Curitiba • 01/2011 a 03/2011<br />
+> Administração do site institucional. Criação e acompanhamento de campanhas digitais em redes sociais.
 
 ### Positivo Tecnologia
-> Analista de treinamento • Curitiba • 09/2009 a 12/2010
+> Analista de treinamento • Curitiba • 09/2009 a 12/2010<br />
+> Treinamento técnico à rede de assistência autorizada. Desenvolvimento de documentação técnica. Manutenção do Portal Parcerias voltado para a rede de assistência técnica autorizada. Auditoria de processos na rede técnica autorizada.
 
-> Analista Jr. • Curitiba • 09/2008 a 09/2009
+> Analista Jr. • Curitiba • 09/2008 a 09/2009<br />
+> Núcleo de Hardware: Desenvolvimento de Documentação Técnica. Análise de falhas e desenvolvimento de soluções de hardware e sistemas internos. Pesquisa e desenvolvimento de soluções de testes de equipamentos e componentes para o Laboratório e rede autorizada de assistência técnica. Auditor interno da Norma NBR ISO 9001 e 14001
 
-> Assistente Técnico • Curitiba • 02/2007 a 09/2008
+> Assistente Técnico • Curitiba • 02/2007 a 09/2008<br />
+> Procedimentos de teste em componentes diversos de Desktop e Notebook, detectando e identificando defeitos.<br />
+> Identificou a necessidade de melhorias e atualização dos procedimentos e pesquisa de novas ferramentas e soluções de teste, junto à equipe, dando origem ao setor especializado "Núcleo de Hardware".
 
 ### Centro Internacional de Análise Relacional | Auxiliar Administrativo
-> Curitiba • 06/2006 a 01/2007
+> Curitiba • 06/2006 a 01/2007<br />
+> Responsável pelo setor de informática. Instalação, configuração, manutenção e suporte de sistemas operacionais, aplicativos e hardware. Apoio ao Setor Administrativo. Criação e adaptação de identidade visual. Administração de banco de dados e mala direta impressa e eletrônica (MS Office). Administrador de rede Windows. Design e administração do site institucional (www.ciar.com.br). Suporte a usuário interno e externo – CRM.
 
 ### Gráﬁca e Editora Premius | Arte Finalista
-> Fortaleza • 10/2005 a 06/2006
+> Fortaleza • 10/2005 a 06/2006<br />
+> Criação e finalização de arte gráfica impressa, editoração e diagramação de publicações diversas (livros, jornais, agendas, calendários etc.). Incentivou a atualização de softwares na Editora e a criação de novo sistema de backup de trabalhos e clientes.
 
 ### Centro Internacional de Análise Relacional | Assistente Administrativo
-> Fortaleza e Curitiba • 04/2002 a 10/2005
+> Fortaleza e Curitiba • 04/2002 a 10/2005<br />
+> Manutenção dos computadores. Análise, instalação e operação de software e hardware. Digitação. Criação de material gráfico. Organização de banco de dados e mala direta impressa e eletrônica. Administrador de rede Windows. Design e administração do site da empresa.
 
 ### Theatro José de Alencar | Assistente Administrativo
-> Fortaleza • 01/1998 a 03/2002
+> Fortaleza • 01/1998 a 03/2002<br />
+> Manutenção dos computadores, software e hardware. Digitação e suporte em geral. Organização e manutenção da mala direta e banco de dados. Suporte e operação do sistema informatizado da bilheteria em 2000. Assistente de produção e criação gráfica de projetos internos.
 
 &nbsp;
 
@@ -180,7 +198,5 @@ Focado nos últimos anos em:
 ## 👍 Redes Sociais e Informações Adicionais
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tarcisio)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tarcis_io)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tcavalcante/)
