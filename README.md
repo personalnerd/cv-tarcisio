@@ -36,9 +36,16 @@
 &nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 &nbsp;
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
 &nbsp;
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+&nbsp;
+![Cypress](https://img.shields.io/badge/Cypress-007780?style=for-the-badge&logo=cypress&logoColor=White)
+&nbsp;
+![RobotFramework](https://img.shields.io/badge/RobotFramework-00C0B5?style=for-the-badge&logo=robotframework&logoColor=000000)
+&nbsp;
 
 ![](https://github-readme-stats.vercel.app/api?username=personalnerd&theme=blue-green)
 
@@ -58,14 +65,14 @@
 
 ## 🧔🏻 Sobre
 
-Profissional com ampla experiência (vinte e tantos anos e contando) em TI, design gráfico e web (UX/UI), desenvolvimento web front-end e testes de software (manual e automatizado). Apaixonado por tecnologia, autodidata, criativo e sempre disposto a aprender/ensinar e assumir novos desafios.
+Profissional com vasta experiência em TI, design gráfico e web (UX/UI), desenvolvimento front-end e testes de software (manual e automatizado). Apaixonado por tecnologia, autodidata, criativo e sempre pronto para novos desafios.
 
-Focado nos últimos anos em:
-- Desenvolvimento front-end (HTML, CSS, SASS, JavaScript, Typescript, jQuery, Bootstrap, Tailwind).
-- Criação e gestão de produtos e design de experiência do usuário.
-- Qualidade de software (quality assurance) com testes manuais e automatizados E2E (Playwright e Cypress).
-- Liderança de times de desenvolvimento, atuando como tech lead e delivery manager.
-- E dedicando bastante tempo de estudo em frameworks reativos (React, Vue).
+Nos últimos anos, focado em:
+- Desenvolvimento front-end (HTML, CSS, SASS, JavaScript, TypeScript, jQuery, Bootstrap, Tailwind).
+- Qualidade de software (QA, quality assurance) com testes automatizados E2E com Playwright.
+- Criação e gestão de produtos digitais e design de experiência do usuário.
+- Liderança de times de desenvolvimento, atuando como tech lead e delivery manager. 
+- E dedicando bastante tempo de estudo em frameworks reativos (React, Vue, Angular) e de testes (Jest, Robot, Cypress, Playwright).
 
 &nbsp;
 
@@ -159,6 +166,12 @@ Focado nos últimos anos em:
 
 &nbsp;
 
+## 🌐 Idiomas
+
+> Inglês avançado (EF SET C1 Advanced)
+
+&nbsp;
+
 ## 👨‍🏫 Cursos e qualificações
 
 > Bootcamp Desenvolvedor Web Front-End (IGTI - Instituto de Gestão e Tecnologia da Informação);
@@ -200,3 +213,5 @@ Focado nos últimos anos em:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tarcisio)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tcavalcante/)
+&nbsp;
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/tcsio.bsky.social)
