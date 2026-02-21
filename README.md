@@ -8,8 +8,6 @@
 
 ## 🧔🏻 Tarcisio Cavalcante Uchoa
 
-> Desenvolvedor Sr
-> 
 > Automation Quality Assurance
 >
 > Web Dev Front-End
@@ -23,6 +21,10 @@
 &nbsp;
 
 <div align="center">
+
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+&nbsp;
+![RobotFramework](https://img.shields.io/badge/RobotFramework-00C0B5?style=for-the-badge&logo=robotframework&logoColor=000000)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
@@ -40,12 +42,6 @@
 &nbsp;
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
-&nbsp;
-![Cypress](https://img.shields.io/badge/Cypress-007780?style=for-the-badge&logo=cypress&logoColor=White)
-&nbsp;
-![RobotFramework](https://img.shields.io/badge/RobotFramework-00C0B5?style=for-the-badge&logo=robotframework&logoColor=000000)
-&nbsp;
 
 ![](https://github-readme-stats.vercel.app/api?username=personalnerd&theme=blue-green)
 
@@ -55,7 +51,7 @@
 
 ## ✉️ Contato
 
-> Brasileiro • 44 anos • Brasília/DF
+> Brasileiro • 45 anos • Brasília/DF • Curitiba/PR
 >
 > [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tcavalcante)
 &nbsp;
@@ -68,20 +64,14 @@
 Profissional com vasta experiência em TI, design gráfico e web (UX/UI), desenvolvimento front-end e testes de software (manual e automatizado). Apaixonado por tecnologia, autodidata, criativo e sempre pronto para novos desafios.
 
 Nos últimos anos, focado em:
+- Qualidade de software (QA, quality assurance) com testes manuais e automatizados web e mobile com Playwright e Robot Framework.
 - Desenvolvimento front-end (HTML, CSS, SASS, JavaScript, TypeScript, jQuery, Bootstrap, Tailwind).
-- Qualidade de software (QA, quality assurance) com testes automatizados E2E com Playwright.
 - Criação e gestão de produtos digitais e design de experiência do usuário.
-- Liderança de times de desenvolvimento, atuando como tech lead e delivery manager. 
-- E dedicando bastante tempo de estudo em frameworks reativos (React, Vue, Angular) e de testes (Jest, Robot, Cypress, Playwright).
+- Liderança de times de desenvolvimento e qualidade, atuando como tech lead e delivery manager.
 
 &nbsp;
 
 ## 🎓 Formação Acadêmica
-
-
-### Pós-Graduação | Transformação Digital e Liderança
-> <p>09/2024 a 09/2025<br />
-> Escola Conquer</p>
 
 ### Pós-Graduação | MBA Engenharia de Software
 > <p>03/2023 a 11/2023<br />
@@ -102,6 +92,11 @@ Nos últimos anos, focado em:
 &nbsp;
 
 ## 👔 Experiência Profissional
+
+### Liberty Health | Analista de Qualidade de Software Pleno
+> Brasília • Desde 04/2025<br />
+> Qualidade de software, testes funcionais e automação de testes E2E.<br />
+> Robot Framework, BDD, Jira, Git
 
 ### BRF SA | Desenvolvedor Sr
 > Curitiba • 05/2022 a 01/2025<br />
@@ -204,14 +199,3 @@ Nos últimos anos, focado em:
 > ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 >
 > Colecionador de livros não lidos 😒
-
-
-&nbsp;
-
-## 👍 Redes Sociais e Informações Adicionais
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tarcisio)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tcavalcante/)
-&nbsp;
-[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/tcsio.bsky.social)
