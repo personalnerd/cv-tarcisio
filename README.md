@@ -61,17 +61,21 @@
 
 ## 🧔🏻 Sobre
 
-Profissional com vasta experiência em TI, design gráfico e web (UX/UI), desenvolvimento front-end e testes de software (manual e automatizado). Apaixonado por tecnologia, autodidata, criativo e sempre pronto para novos desafios.
+Analista de Qualidade de Software (QA) com experiência em testes manuais e automação Web, Mobile e API utilizando Playwright, Robot Framework e Cypress.
 
-Nos últimos anos, focado em:
-- Qualidade de software (QA, quality assurance) com testes manuais e automatizados web e mobile com Playwright e Robot Framework.
-- Desenvolvimento front-end (HTML, CSS, SASS, JavaScript, TypeScript, jQuery, Bootstrap, Tailwind).
-- Criação e gestão de produtos digitais e design de experiência do usuário.
-- Liderança de times de desenvolvimento e qualidade, atuando como tech lead e delivery manager.
+Atuação em ambientes ágeis, com integração em pipelines CI/CD (Azure DevOps) e validação de APIs com Postman e Swagger, garantindo qualidade contínua e redução de falhas em produção.
+
+QA com background em desenvolvimento e visão de produto. Experiência prévia como desenvolvedor front-end, UX/UI Designer e Tech Lead, agregando visão técnica, foco em usabilidade e qualidade desde a concepção até a entrega do produto.
+
+Inglês avançado para atuação em times globais e colaboração em projetos internacionais.
 
 &nbsp;
 
 ## 🎓 Formação Acadêmica
+
+### Pós-Graduação | Qualidade e Teste de Software
+> <p>03/2026 a 12/2026 (cursando)<br />
+> UniCesumar</p>
 
 ### Pós-Graduação | MBA Engenharia de Software
 > <p>03/2023 a 11/2023<br />
@@ -95,12 +99,11 @@ Nos últimos anos, focado em:
 
 ### Liberty Health | Analista de Qualidade de Software Pleno
 > Brasília • Desde 04/2025<br />
-> Qualidade de software, testes funcionais e automação de testes E2E.<br />
-> Robot Framework, BDD, Jira, Git
+> Qualidade de software, testes funcionais e automação de testes E2E. Definição e implementação de estratégias, estrutura e padrões de automação de testes E2E com Robot Framework. 
 
 ### BRF SA | Desenvolvedor Sr
 > Curitiba • 05/2022 a 01/2025<br />
-> Inicialmente Analista de Testes QA com foco em testes automatizados E2E. Evoluindo para tech lead e gestão do time de desenvolvimento de produtos internos. Atuando também como Service Delivery Manager (método Kanban), Product Designer, Analista QA e automação de testes.<br />
+> Implementação de automação E2E com Playwright, reduzindo retrabalho em homologação; Estruturação de suíte de testes automatizados integrada ao Azure DevOps; Atuação como Tech Lead coordenando equipe multidisciplinar; Integração de testes com APIs via Postman e Swagger.<br />
 > HTML, CSS, SASS, React, design e prototipação com Figma, UX/UI, MSSQL, Azure DevOps, Portal Azure, automação de testes com Playwright, integração com APIs (Postman, Swagger), liderança, comunicação entre equipes e stakeholders, identificação de problemas, definição de prioridades e metas.
 
 ### Empresômetro | Desenvolvedor web front-end
@@ -198,4 +201,4 @@ Nos últimos anos, focado em:
 >
 > ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 >
-> Colecionador de livros não lidos 😒
+> Colecionador de livros não lidos 😒 📚
